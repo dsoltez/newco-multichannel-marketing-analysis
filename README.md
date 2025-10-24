@@ -97,21 +97,14 @@ Analyze multiple campaign cycles to detect seasonality
 Evaluate retention of newly acquired customers
 
 # Project Structure
-newco-marketing-analysis/
-│
-├─ data/
-│   └─ Campaign_Data_Week1.xlsx
-│
-├─ visuals/
-│   ├─ Chart1_Campaign_New_Customers.png
-│   ├─ Chart2_Channel_vs_CustomerType.png
-│   └─ Chart3_NewCustomers_Distribution.png
-│
-├─ deliverables/
-│   ├─ Data_Slide_Template_Final.pptx
-│   ├─ Client Overview.pdf
-│   └─ Meet BCG X.pdf
-└─ README.md
+## 📦 Project Structure
+
+| Folder | Purpose | Key Files |
+|---|---|---|
+| [data/](data/) | Raw dataset used for analysis | [Campaign_Data_Week1.xlsx](data/Campaign_Data_Week1.xlsx) |
+| [visuals/](visuals/) | Charts referenced in README & deck | Chart1, Chart2, Chart3 PNGs |
+| [deliverables/](deliverables/) | Final presentation & client docs | PPTX, Client Overview.pdf, Meet BCG X.pdf |
+| – | Root file for project overview | README.md |
 # Status Complete – 
 ready for portfolio review
 
